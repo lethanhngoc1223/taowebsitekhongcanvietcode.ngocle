@@ -1,0 +1,6 @@
+{
+  "name": "Tính chất của nước - Khoa học lớp 4",
+  "description": "Mô phỏng tương tác 2D và bài giảng trình chiếu về tính chất của nước và nước với cuộc sống cho Khoa học lớp 4",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
